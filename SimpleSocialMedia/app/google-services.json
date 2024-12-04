@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895920062983",
+    "project_id": "simplesocialmedia-f47d8",
+    "storage_bucket": "simplesocialmedia-f47d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895920062983:android:0f3d24eb677c5646a5e0a2",
+        "android_client_info": {
+          "package_name": "com.mehmet.simplesocialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJkvJY1W4RyNZpny0yPy-omNjVKzbpYBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
